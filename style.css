@@ -6,4 +6,9 @@ div{
 }
 body{
     background-image: cover;
+    font-style: inherit;
+}
+canvas{
+   margin-top: 150px;
+   box-shadow: 10px 10px 38px blue;
 }
